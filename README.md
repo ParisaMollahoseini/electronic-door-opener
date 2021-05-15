@@ -6,4 +6,4 @@
 
 In this code portb is for switches , portc is for ketpad, and portd is for leds that show which door is opened.
 
-auther : parisa mollahoseini
+author : parisa mollahoseini
